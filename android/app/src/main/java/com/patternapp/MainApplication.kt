@@ -1,4 +1,4 @@
-package com.patternapp
+package com.onPictureapp
 
 import android.app.Application
 import com.facebook.react.PackageList
